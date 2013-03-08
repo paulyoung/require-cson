@@ -1,0 +1,7 @@
+data =
+  some_data:
+    x: 1
+    y: [
+      'hello'
+      'world'
+    ]
