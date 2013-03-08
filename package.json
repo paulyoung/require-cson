@@ -1,0 +1,19 @@
+{
+  "name": "require-cson",
+  "version": "0.0.2",
+  "author": "Paul Young",
+  "keywords": "require requirejs coffee coffeescript json cson",
+  "description": "A RequireJS plugin for loading CSON files",
+  "repository" : {
+    "type": "git",
+    "url":  "https://github.com/paulyoung/require-cson.git"
+  },
+  "devDependencies": {
+    "coffee-script": "1.5.0"
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": "1.1.x"
+  },
+  "private": true
+}
